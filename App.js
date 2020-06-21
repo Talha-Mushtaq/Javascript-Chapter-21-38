@@ -648,18 +648,18 @@
 
 // =================== Chapter 35-38 --- Question 14 ===================  
 
-var c = calcCircumference(5)
-var a = calcArea(5);
-document.write(
-        "Circumferance of circle = "+ c+
-        "<br/>Area of circle = "+a
-);
-function calcCircumference(r){
- var cir = 2 * 3.14 * r;
- return cir.toFixed(2);
-}
-function calcArea(r)
-{
-   var a = 3.14 * r * r;
-   return  a.toFixed(2);
-}
+// var c = calcCircumference(5)
+// var a = calcArea(5);
+// document.write(
+//         "Circumferance of circle = "+ c+
+//         "<br/>Area of circle = "+a
+// );
+// function calcCircumference(r){
+//  var cir = 2 * 3.14 * r;
+//  return cir.toFixed(2);
+// }
+// function calcArea(r)
+// {
+//    var a = 3.14 * r * r;
+//    return  a.toFixed(2);
+// }
